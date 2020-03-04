@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6061635072923699313}
   - component: {fileID: 6061635072923699314}
   - component: {fileID: 6061635072923699318}
+  - component: {fileID: -1684966195272921601}
   m_Layer: 0
   m_Name: Pikario
   m_TagString: Untagged
@@ -118,7 +119,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.079399526, y: 0.4694618}
+  m_Offset: {x: 0.0027062, y: 0.41548014}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -129,7 +130,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5480335, y: 0.7801244}
+  m_Size: {x: 0.61052436, y: 0.6721611}
   m_EdgeRadius: 0
 --- !u!114 &6061635072923699318
 MonoBehaviour:
@@ -144,3 +145,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2.5
+--- !u!95 &-1684966195272921601
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6061635072923699315}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: be403e8c5dedb7442af9ee97aaa6ca8b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

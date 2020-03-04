@@ -7,31 +7,35 @@ public class PlayerController : MonoBehaviour
     public float speed = 2.5f;
 
     Rigidbody2D rb;
-    SpriteRenderer sr;
-    float direction;
+    Animator anim;
+    float horizontal;
+
+    Vector2 lookDirection = new Vector2(1, 0);
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         // ADD JUMP AFTER COLLISIONS
-        direction = Input.GetAxis("Horizontal");
-        if (direction < 0)
+        horizontal = Input.GetAxis("Horizontal");
+
+        Vector2 move = new Vector2(horizontal, 0);
+        if(!Mathf.Approximately(horizontal, 0.0f)) // Saves the looking direction for better animation control
         {
-            sr.flipX = true;
+            lookDirection.Set(move.x, move.y);
+            lookDirection.Normalize();
         }
-        else if (direction > 0)
-        {
-            sr.flipX = false;
-        }
+        anim.SetFloat("Move X", lookDirection.x);
+        anim.SetFloat("Speed", move.magnitude);
+
         Vector2 pos = rb.position;
-        pos.x += direction * speed * Time.deltaTime;
+        pos.x += horizontal * speed * Time.deltaTime;
 
         rb.MovePosition(pos);
     }
