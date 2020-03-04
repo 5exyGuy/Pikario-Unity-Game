@@ -13,9 +13,387 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-04T21:43:23.291+02:00
+  lastUpdatedAtString: 2020-03-04T21:51:58.307+02:00
   initializedAtString: 2020-03-04T16:01:46.056+02:00
   log:
+  - commitID: b180d52d4e9e6ec1bd9b3298205bfcb58bbc98db
+    mergeA: 
+    mergeB: 
+    authorName: BroofTerr
+    authorEmail: lukaitis.rytis@gmail.com
+    commitEmail: lukaitis.rytis@gmail.com
+    commitName: BroofTerr
+    summary: Added gitignore
+    description: testing if gitignore works
+    timeString: 2020-03-04T21:51:11.000+02:00
+    commitTimeString: 2020-03-04T21:51:11.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      projectPath: Library\Artifacts\33\33037308ab43ab9abbe27388dda72116
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      projectPath: Library\Artifacts\53\53fad138a971b2383d90d5c093ebb624
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      projectPath: Library\Artifacts\92\922b5471967fa78f94987357e7b5be45
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      projectPath: Library\Artifacts\ac\ac59d0245610e294f859b6bb63a163a4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ba\bac6aff23733434e2a5aa94464faddb5
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ba\bac6aff23733434e2a5aa94464faddb5
+      projectPath: Library\Artifacts\ba\bac6aff23733434e2a5aa94464faddb5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\bf\bf706f05caecc0057f83d40beb78e791
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\bf\bf706f05caecc0057f83d40beb78e791
+      projectPath: Library\Artifacts\bf\bf706f05caecc0057f83d40beb78e791
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\c3\c3065539cba5622246e6e259d108c958
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\c3\c3065539cba5622246e6e259d108c958
+      projectPath: Library\Artifacts\c3\c3065539cba5622246e6e259d108c958
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      projectPath: Library\Artifacts\cd\cd9fdf3660c64e22d4b886546c60dd6b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ed\edbff4e5e922f3cde73005da81f7b667
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ed\edbff4e5e922f3cde73005da81f7b667
+      projectPath: Library\Artifacts\ed\edbff4e5e922f3cde73005da81f7b667
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      projectPath: Library\Artifacts\fb\fb895131a6d7331480d08e7527e9a38e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Cinemachine.dll
+      projectPath: Library\ScriptAssemblies\Cinemachine.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Cinemachine.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Cinemachine.pdb
+      projectPath: Library\ScriptAssemblies\Cinemachine.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB-lock
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Pikario-Unity-Game.sln
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Pikario-Unity-Game.sln
+      projectPath: Pikario-Unity-Game.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9494f04112d9cc4105e45a0061457aa0dbac6474
     mergeA: 
     mergeB: 
