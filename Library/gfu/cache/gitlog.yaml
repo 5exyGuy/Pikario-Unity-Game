@@ -13,9 +13,159 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-04T21:51:58.307+02:00
-  initializedAtString: 2020-03-04T16:01:46.056+02:00
+  lastUpdatedAtString: 2020-03-05T10:29:55.858+02:00
+  initializedAtString: 2020-03-05T10:29:55.858+02:00
   log:
+  - commitID: 16b727901589ccf0a0239fb237557f7eee94297d
+    mergeA: 
+    mergeB: 
+    authorName: BroofTerr
+    authorEmail: lukaitis.rytis@gmail.com
+    commitEmail: lukaitis.rytis@gmail.com
+    commitName: BroofTerr
+    summary: Added colliders to prefabs
+    description: 
+    timeString: 2020-03-04T22:00:31.000+02:00
+    commitTimeString: 2020-03-04T22:00:31.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .vs\Pikario-Unity-Game\v15\.suo
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\.suo
+      projectPath: .vs\Pikario-Unity-Game\v15\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chimney1.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Chimney1.prefab
+      projectPath: Assets\Prefabs\Chimney1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chimney2.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Chimney2.prefab
+      projectPath: Assets\Prefabs\Chimney2.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chimney3.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Chimney3.prefab
+      projectPath: Assets\Prefabs\Chimney3.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Chimney4.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Chimney4.prefab
+      projectPath: Assets\Prefabs\Chimney4.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Rooftop.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Rooftop.prefab
+      projectPath: Assets\Prefabs\Rooftop.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\RooftopCracked.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\RooftopCracked.prefab
+      projectPath: Assets\Prefabs\RooftopCracked.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\RooftopMossy.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\RooftopMossy.prefab
+      projectPath: Assets\Prefabs\RooftopMossy.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Wall1.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Wall1.prefab
+      projectPath: Assets\Prefabs\Wall1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Wall2.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Wall2.prefab
+      projectPath: Assets\Prefabs\Wall2.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Wall3.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Wall3.prefab
+      projectPath: Assets\Prefabs\Wall3.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Window1.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Window1.prefab
+      projectPath: Assets\Prefabs\Window1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Window2.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Window2.prefab
+      projectPath: Assets\Prefabs\Window2.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Window3.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Window3.prefab
+      projectPath: Assets\Prefabs\Window3.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Window4.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Window4.prefab
+      projectPath: Assets\Prefabs\Window4.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d10b79-mainStage.json
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\StateCache\SceneView\d10b79-mainStage.json
+      projectPath: Library\StateCache\SceneView\d10b79-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b180d52d4e9e6ec1bd9b3298205bfcb58bbc98db
     mergeA: 
     mergeB: 
