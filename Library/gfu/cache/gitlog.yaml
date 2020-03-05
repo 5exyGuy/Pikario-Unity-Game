@@ -13,9 +13,261 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-05T21:47:14.878+02:00
+  lastUpdatedAtString: 2020-03-06T00:08:57.177+02:00
   initializedAtString: 2020-03-05T18:43:23.200+02:00
   log:
+  - commitID: 1981f0290deaf269520b7596c911ad412bd0df3b
+    mergeA: 
+    mergeB: 
+    authorName: BroofTerr
+    authorEmail: lukaitis.rytis@gmail.com
+    commitEmail: lukaitis.rytis@gmail.com
+    commitName: BroofTerr
+    summary: Updated gitignore
+    description: 
+    timeString: 2020-03-05T22:44:09.000+02:00
+    commitTimeString: 2020-03-05T22:44:09.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1e91e4a089d02e933ace8706e6bba09a07a3ef50
+    mergeA: 
+    mergeB: 
+    authorName: BroofTerr
+    authorEmail: lukaitis.rytis@gmail.com
+    commitEmail: lukaitis.rytis@gmail.com
+    commitName: BroofTerr
+    summary: Fixed movement and jumping
+    description: 
+    timeString: 2020-03-05T22:42:47.000+02:00
+    commitTimeString: 2020-03-05T22:42:47.000+02:00
+    changes:
+    - path: .vs\Pikario-Unity-Game\v15\.suo
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\.suo
+      projectPath: .vs\Pikario-Unity-Game\v15\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Pikario.prefab
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Prefabs\Pikario.prefab
+      projectPath: Assets\Prefabs\Pikario.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainScene.unity
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Scenes\MainScene.unity
+      projectPath: Assets\Scenes\MainScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerController.cs
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f5d20650d759aea86ac4dab3dab7076
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\0f\0f5d20650d759aea86ac4dab3dab7076
+      projectPath: Library\Artifacts\0f\0f5d20650d759aea86ac4dab3dab7076
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\13\13bf17307f0de037d37cd053d50be8d7
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\13\13bf17307f0de037d37cd053d50be8d7
+      projectPath: Library\Artifacts\13\13bf17307f0de037d37cd053d50be8d7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\17\177a40eaf797a0c205e0757e1ee2f9b5
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\17\177a40eaf797a0c205e0757e1ee2f9b5
+      projectPath: Library\Artifacts\17\177a40eaf797a0c205e0757e1ee2f9b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\1f\1f98a1a6ca5a542e644c5d9063999b34
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\1f\1f98a1a6ca5a542e644c5d9063999b34
+      projectPath: Library\Artifacts\1f\1f98a1a6ca5a542e644c5d9063999b34
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\287d832b89a3f0910a52519b160e9297
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\28\287d832b89a3f0910a52519b160e9297
+      projectPath: Library\Artifacts\28\287d832b89a3f0910a52519b160e9297
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\46\4621db7414f5716aead86b64088032bb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\46\4621db7414f5716aead86b64088032bb
+      projectPath: Library\Artifacts\46\4621db7414f5716aead86b64088032bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\5d\5d9d220af247820d429422b8bb559f24
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\5d\5d9d220af247820d429422b8bb559f24
+      projectPath: Library\Artifacts\5d\5d9d220af247820d429422b8bb559f24
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\6c\6c567f0216e5837729eb7f18d4fc9fcb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\6c\6c567f0216e5837729eb7f18d4fc9fcb
+      projectPath: Library\Artifacts\6c\6c567f0216e5837729eb7f18d4fc9fcb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\71\71b19fbae470793036f447ab0c995971
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\71\71b19fbae470793036f447ab0c995971
+      projectPath: Library\Artifacts\71\71b19fbae470793036f447ab0c995971
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\74\7464c74ed83e146e8e63e35c0339f61c
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\74\7464c74ed83e146e8e63e35c0339f61c
+      projectPath: Library\Artifacts\74\7464c74ed83e146e8e63e35c0339f61c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\78\78331aa0013d96ac293a8dfec0de963d
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\78\78331aa0013d96ac293a8dfec0de963d
+      projectPath: Library\Artifacts\78\78331aa0013d96ac293a8dfec0de963d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\8b\8b6374078530ee193668b533db3b90c6
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\8b\8b6374078530ee193668b533db3b90c6
+      projectPath: Library\Artifacts\8b\8b6374078530ee193668b533db3b90c6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\8c\8c451106835213f21a19b572d712da4e
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\8c\8c451106835213f21a19b572d712da4e
+      projectPath: Library\Artifacts\8c\8c451106835213f21a19b572d712da4e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ab\abcb2a8c149ece02873cdc03944a1396
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ab\abcb2a8c149ece02873cdc03944a1396
+      projectPath: Library\Artifacts\ab\abcb2a8c149ece02873cdc03944a1396
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ac\acd9f5548d1d34c91e9f71040c7fc752
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ac\acd9f5548d1d34c91e9f71040c7fc752
+      projectPath: Library\Artifacts\ac\acd9f5548d1d34c91e9f71040c7fc752
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ba\ba5b2f9291f47e57c890cfae94a3dc28
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\ba\ba5b2f9291f47e57c890cfae94a3dc28
+      projectPath: Library\Artifacts\ba\ba5b2f9291f47e57c890cfae94a3dc28
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\c7\c77cac7cc8e2690050825e6d79df5bf0
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\c7\c77cac7cc8e2690050825e6d79df5bf0
+      projectPath: Library\Artifacts\c7\c77cac7cc8e2690050825e6d79df5bf0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\cf\cf1e37bcb1d367506440a9f905a191a3
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\Artifacts\cf\cf1e37bcb1d367506440a9f905a191a3
+      projectPath: Library\Artifacts\cf\cf1e37bcb1d367506440a9f905a191a3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\7fb90a-mainStage.json
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\StateCache\Hierarchy\7fb90a-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\7fb90a-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d10b79-mainStage.json
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\StateCache\SceneView\d10b79-mainStage.json
+      projectPath: Library\StateCache\SceneView\d10b79-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Users\Rytis\Documents\GitHub\Pikario-Unity-Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9db76f3f91778f32a0b3aa161c3cd2d4f8540e63
     mergeA: 
     mergeB: 

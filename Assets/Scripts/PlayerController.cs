@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     Rigidbody2D rb;
     Animator anim;
+    BoxCollider2D collider;
     float horizontal;
     RaycastHit2D grounded;
 
@@ -20,6 +21,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        collider = GetComponent<BoxCollider2D>();
     }
 
     void Update()
@@ -31,6 +33,7 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = Vector2.up * jumpForce;
         }
+        Debug.Log("Velocity: " + rb.velocity.ToString());
 
         // Moving 
         rb.velocity = new Vector2(speed * horizontal, rb.velocity.y);
@@ -40,7 +43,8 @@ public class PlayerController : MonoBehaviour
 
     private bool IsGrounded()
     {
-        grounded = Physics2D.Raycast(raySource.transform.position, Vector2.down, 0.1f, LayerMask.GetMask("Ground"));
+        //grounded = Physics2D.Raycast(raySource.transform.position, Vector2.down, 0.1f, LayerMask.GetMask("Ground"));
+        grounded = Physics2D.BoxCast(collider.bounds.center, collider.bounds.size, 0f, Vector2.down, 0.1f, LayerMask.GetMask("Ground"));
         return grounded.collider != null;
     }
 
@@ -56,5 +60,7 @@ public class PlayerController : MonoBehaviour
         // Setting the animations
         anim.SetFloat("Move X", lookDirection.x);
         anim.SetFloat("Speed", move.magnitude);
+        anim.SetBool("Jumping", !IsGrounded());
+        anim.SetFloat("Jump Velocity", rb.velocity.y);
     }
 }
