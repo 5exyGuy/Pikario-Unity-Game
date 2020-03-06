@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
     public float speed = 2.5f;
     public float jumpForce = 20f;
     public GameObject raySource;
+    public TextMeshProUGUI scoreText;
 
     Rigidbody2D rb;
     Animator anim;
@@ -37,7 +39,6 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = Vector2.up * jumpForce;
         }
-        Debug.Log("Velocity: " + rb.velocity.ToString());
 
         // Moving 
         rb.velocity = new Vector2(speed * horizontal, rb.velocity.y);
@@ -71,5 +72,6 @@ public class PlayerController : MonoBehaviour
     public void ChangeScore(int amount)
     {
         score = Mathf.Max(0, score + amount); // Using max method so there wouldn't be negative score
+        scoreText.text = "Score: " + score.ToString(); // Updated the score text on the UI
     }
 }
