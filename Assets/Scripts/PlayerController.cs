@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     float horizontal;
     public int score;
     RaycastHit2D grounded;
-    
+    AudioSource audioSource;
 
     Vector2 lookDirection = new Vector2(1, 0);
 
@@ -26,6 +26,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         collider = GetComponent<BoxCollider2D>();
+        audioSource = GetComponent<AudioSource>();
         score = 0;
     }
 
@@ -73,5 +74,10 @@ public class PlayerController : MonoBehaviour
     {
         score = Mathf.Max(0, score + amount); // Using max method so there wouldn't be negative score
         scoreText.text = "Score: " + score.ToString(); // Updated the score text on the UI
+    }
+
+    public void PlaySound(AudioClip clip)
+    {
+        audioSource.PlayOneShot(clip);
     }
 }
