@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     Animator anim;
     BoxCollider2D collider;
     float horizontal;
-    public int score;
+    int score;
     RaycastHit2D grounded;
     AudioSource audioSource;
 
@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+
         // Input
         horizontal = Input.GetAxis("Horizontal");
 
@@ -79,5 +80,11 @@ public class PlayerController : MonoBehaviour
     public void PlaySound(AudioClip clip)
     {
         audioSource.PlayOneShot(clip);
+    }
+
+    public void ResetPlayer(Vector2 respawn)
+    {
+        rb.position = respawn; // Respawn point
+        rb.velocity = new Vector2(0, 0);
     }
 }

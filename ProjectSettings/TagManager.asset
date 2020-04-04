@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Chimney
+  - Enemy
+  - Turn
   layers:
   - Default
   - TransparentFX
