@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-04T20:27:46.591+03:00
-  initializedAtString: 2020-04-04T20:27:46.591+03:00
+  lastUpdatedAtString: 2020-04-05T12:23:01.619+03:00
+  initializedAtString: 2020-04-05T12:23:01.619+03:00
   currentGitRemote:
     name: origin
-    url: https://github.com/BroofTerr/Pikario-Unity-Game.git
+    url: https://github.com/5exyGuy/Pikario-Unity-Game.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/BroofTerr/Pikario-Unity-Game.git
+      url: https://github.com/5exyGuy/Pikario-Unity-Game.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/BroofTerr/Pikario-Unity-Game.git
+    url: https://github.com/5exyGuy/Pikario-Unity-Game.git
   currentHead: 
