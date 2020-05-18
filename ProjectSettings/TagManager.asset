@@ -8,6 +8,7 @@ TagManager:
   - Chimney
   - Enemy
   - Turn
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -19,8 +20,8 @@ TagManager:
   - 
   - Character
   - Ground
-  - 
-  - 
+  - Projectile
+  - Enemy
   - 
   - 
   - 

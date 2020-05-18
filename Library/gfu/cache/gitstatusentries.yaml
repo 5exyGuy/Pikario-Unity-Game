@@ -13,126 +13,630 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-05T13:11:22.872+03:00
-  initializedAtString: 2020-04-05T12:23:02.733+03:00
+  lastUpdatedAtString: 2020-05-17T20:19:26.629+03:00
+  initializedAtString: 2020-05-17T20:19:26.629+03:00
   entries:
+  - path: .vs\Pikario-Unity-Game\v15\.suo
+    fullPath: E:\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\.suo
+    projectPath: .vs\Pikario-Unity-Game\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide
+    fullPath: E:\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+    fullPath: E:\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+    fullPath: E:\Pikario-Unity-Game\.vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Pikario-Unity-Game\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assembly-CSharp.csproj
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assembly-CSharp.csproj
+    fullPath: E:\Pikario-Unity-Game\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: E:\Pikario-Unity-Game\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\bossprojectile 1.png
+    fullPath: E:\Pikario-Unity-Game\Assets\bossprojectile 1.png
+    projectPath: Assets\bossprojectile 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\bossprojectile 1.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\bossprojectile 1.png.meta
+    projectPath: Assets\bossprojectile 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\bossprojectile.png
+    fullPath: E:\Pikario-Unity-Game\Assets\bossprojectile.png
+    projectPath: Assets\bossprojectile.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\bossprojectile.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\bossprojectile.png.meta
+    projectPath: Assets\bossprojectile.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\flagpole.png
+    fullPath: E:\Pikario-Unity-Game\Assets\flagpole.png
+    projectPath: Assets\flagpole.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\flagpole.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\flagpole.png.meta
+    projectPath: Assets\flagpole.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\bg.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\bg.prefab
+    projectPath: Assets\Prefabs\bg.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\bg.prefab.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\bg.prefab.meta
+    projectPath: Assets\Prefabs\bg.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\BossProjectile.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\BossProjectile.prefab
+    projectPath: Assets\Prefabs\BossProjectile.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\BossProjectile.prefab.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\BossProjectile.prefab.meta
+    projectPath: Assets\Prefabs\BossProjectile.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\flagpole.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\flagpole.prefab
+    projectPath: Assets\Prefabs\flagpole.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\flagpole.prefab.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\flagpole.prefab.meta
+    projectPath: Assets\Prefabs\flagpole.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Lattice.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\Lattice.prefab
+    projectPath: Assets\Prefabs\Lattice.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\LightningPrefab.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\LightningPrefab.prefab
+    projectPath: Assets\Prefabs\LightningPrefab.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\LightningPrefab.prefab.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\LightningPrefab.prefab.meta
+    projectPath: Assets\Prefabs\LightningPrefab.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\NetBeans.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\NetBeans.prefab
+    projectPath: Assets\Prefabs\NetBeans.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Pikario.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\Pikario.prefab
+    projectPath: Assets\Prefabs\Pikario.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\VisualStudio.prefab
+    fullPath: E:\Pikario-Unity-Game\Assets\Prefabs\VisualStudio.prefab
+    projectPath: Assets\Prefabs\VisualStudio.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Level1.unity
+    fullPath: E:\Pikario-Unity-Game\Assets\Scenes\Level1.unity
+    projectPath: Assets\Scenes\Level1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Level2.unity
+    fullPath: E:\Pikario-Unity-Game\Assets\Scenes\Level2.unity
+    projectPath: Assets\Scenes\Level2.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Level2.unity.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scenes\Level2.unity.meta
+    projectPath: Assets\Scenes\Level2.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BossController.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\BossController.cs
+    projectPath: Assets\Scripts\BossController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BossController.cs.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\BossController.cs.meta
+    projectPath: Assets\Scripts\BossController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BossProjectile.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\BossProjectile.cs
+    projectPath: Assets\Scripts\BossProjectile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\BossProjectile.cs.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\BossProjectile.cs.meta
+    projectPath: Assets\Scripts\BossProjectile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DeathZone.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\DeathZone.cs
+    projectPath: Assets\Scripts\DeathZone.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\EnemyController.cs
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assets\Scripts\EnemyController.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\EnemyController.cs
     projectPath: Assets\Scripts\EnemyController.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\EnemyHead.cs
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assets\Scripts\EnemyHead.cs
-    projectPath: Assets\Scripts\EnemyHead.cs
+  - path: Assets\Scripts\GameController.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\GameController.cs
+    projectPath: Assets\Scripts\GameController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\LevelController.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\LevelController.cs
+    projectPath: Assets\Scripts\LevelController.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\EnemyHead.cs.meta
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assets\Scripts\EnemyHead.cs.meta
-    projectPath: Assets\Scripts\EnemyHead.cs.meta
+  - path: Assets\Scripts\LevelController.cs.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\LevelController.cs.meta
+    projectPath: Assets\Scripts\LevelController.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Patrol.cs
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assets\Scripts\Patrol.cs
-    projectPath: Assets\Scripts\Patrol.cs
+  - path: Assets\Scripts\PlayerController.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\PlayerController.cs
+    projectPath: Assets\Scripts\PlayerController.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\Patrol.cs.meta
-    fullPath: E:\GitHub\Pikario-Unity-Game\Assets\Scripts\Patrol.cs.meta
-    projectPath: Assets\Scripts\Patrol.cs.meta
+    workTreeStatus: 3
+  - path: Assets\Scripts\Projectile.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\Projectile.cs
+    projectPath: Assets\Scripts\Projectile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Projectile.cs.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\Projectile.cs.meta
+    projectPath: Assets\Scripts\Projectile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UpdateHealthUI.cs
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\UpdateHealthUI.cs
+    projectPath: Assets\Scripts\UpdateHealthUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UpdateHealthUI.cs.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Scripts\UpdateHealthUI.cs.meta
+    projectPath: Assets\Scripts\UpdateHealthUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\DeathScreen.png
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\DeathScreen.png
+    projectPath: Assets\Sprites\DeathScreen.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\DeathScreen.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\DeathScreen.png.meta
+    projectPath: Assets\Sprites\DeathScreen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Heart.gif
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\Heart.gif
+    projectPath: Assets\Sprites\Heart.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Heart.gif.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\Heart.gif.meta
+    projectPath: Assets\Sprites\Heart.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\HeartEmpty.gif
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\HeartEmpty.gif
+    projectPath: Assets\Sprites\HeartEmpty.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\HeartEmpty.gif.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\HeartEmpty.gif.meta
+    projectPath: Assets\Sprites\HeartEmpty.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Lightning.png
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\Lightning.png
+    projectPath: Assets\Sprites\Lightning.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\Lightning.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\Lightning.png.meta
+    projectPath: Assets\Sprites\Lightning.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\PauseScreen.png
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\PauseScreen.png
+    projectPath: Assets\Sprites\PauseScreen.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\PauseScreen.png.meta
+    fullPath: E:\Pikario-Unity-Game\Assets\Sprites\PauseScreen.png.meta
+    projectPath: Assets\Sprites\PauseScreen.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: E:\Pikario-Unity-Game\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library\ArtifactDB
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\ArtifactDB
+    fullPath: E:\Pikario-Unity-Game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\13\13aee7c3fccf4d970118a68b1f18a3bb
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\Artifacts\13\13aee7c3fccf4d970118a68b1f18a3bb
-    projectPath: Library\Artifacts\13\13aee7c3fccf4d970118a68b1f18a3bb
+  - path: Library\ArtifactDB-lock
+    fullPath: E:\Pikario-Unity-Game\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3b\3baa03b5ea73c8e0ecfe1f001817bb1e
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\Artifacts\3b\3baa03b5ea73c8e0ecfe1f001817bb1e
-    projectPath: Library\Artifacts\3b\3baa03b5ea73c8e0ecfe1f001817bb1e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\8e\8e5d3402a80e77a19e5417c376cf5471
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\Artifacts\8e\8e5d3402a80e77a19e5417c376cf5471
-    projectPath: Library\Artifacts\8e\8e5d3402a80e77a19e5417c376cf5471
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\dd\ddf999963e53003e6154ee2d6c30df1f
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\Artifacts\dd\ddf999963e53003e6154ee2d6c30df1f
-    projectPath: Library\Artifacts\dd\ddf999963e53003e6154ee2d6c30df1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library\CurrentLayout-default.dwlt
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\CurrentLayout-default.dwlt
+    fullPath: E:\Pikario-Unity-Game\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: E:\Pikario-Unity-Game\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Pikario-Unity-Game\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\InspectorExpandedItems.asset
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\InspectorExpandedItems.asset
+    fullPath: E:\Pikario-Unity-Game\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: E:\Pikario-Unity-Game\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: E:\Pikario-Unity-Game\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Cinemachine.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Cinemachine.dll
+    projectPath: Library\ScriptAssemblies\Cinemachine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Cinemachine.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Cinemachine.pdb
+    projectPath: Library\ScriptAssemblies\Cinemachine.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: E:\Pikario-Unity-Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: E:\GitHub\Pikario-Unity-Game\Library\SourceAssetDB
+    fullPath: E:\Pikario-Unity-Game\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: E:\Pikario-Unity-Game\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: E:\Pikario-Unity-Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: E:\Pikario-Unity-Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pikario.sln
+    fullPath: E:\Pikario-Unity-Game\Pikario.sln
+    projectPath: Pikario.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: E:\Pikario-Unity-Game\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: E:\Pikario-Unity-Game\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: E:\Pikario-Unity-Game\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\Pikario-Unity-Game\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

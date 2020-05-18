@@ -7,16 +7,24 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 2.5f;
     public float jumpForce = 20f;
+    public int maxHealth = 3;
     public GameObject raySource;
     public TextMeshProUGUI scoreText;
+    public GameObject lightningPrefab;
 
     Rigidbody2D rb;
     Animator anim;
     BoxCollider2D collider;
     float horizontal;
     int score;
+    public int currHealth;
     RaycastHit2D grounded;
     AudioSource audioSource;
+    UpdateHealthUI healthScript;
+
+    public float timeInvincible = 2.0f;
+    bool isInvincible;
+    float invincibleTimer;
 
     Vector2 lookDirection = new Vector2(1, 0);
 
@@ -27,7 +35,9 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         collider = GetComponent<BoxCollider2D>();
         audioSource = GetComponent<AudioSource>();
+        healthScript = GetComponentInChildren<UpdateHealthUI>();
         score = 0;
+        currHealth = maxHealth;
     }
 
     void Update()
@@ -47,6 +57,20 @@ public class PlayerController : MonoBehaviour
 
         // Animations
         UpdateAnimations();
+
+        if (isInvincible)
+        {
+            invincibleTimer -= Time.deltaTime;
+            if (invincibleTimer < 0)
+            {
+                isInvincible = false;
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            Launch();
+        }
     }
 
     private bool IsGrounded()
@@ -86,5 +110,29 @@ public class PlayerController : MonoBehaviour
     {
         rb.position = respawn; // Respawn point
         rb.velocity = new Vector2(0, 0);
+    }
+
+    public void ChangeHealth(int amount)
+    {
+        if (isInvincible) return;
+
+        currHealth = Mathf.Max(0, currHealth + amount);
+        currHealth = Mathf.Min(currHealth, maxHealth);
+        // Update health
+        healthScript.updateHealthUI(currHealth);
+    }
+
+    private void Launch()
+    {
+        GameObject projectileObject = Instantiate(lightningPrefab, rb.position + Vector2.up * 0.5f, Quaternion.identity);
+
+        Projectile projectile = projectileObject.GetComponent<Projectile>();
+        projectile.Launch(lookDirection, 300);
+
+    }
+
+    public int GetPlayerHealth()
+    {
+        return currHealth;
     }
 }

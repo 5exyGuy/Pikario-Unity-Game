@@ -11,6 +11,7 @@ public class EnemyController : MonoBehaviour
     public float speed = 2.0f;
     public bool movingRight = true;
     public float time = 2.0f;
+
     private float timeLeft = 2.0f;
 
     void Update()
@@ -31,10 +32,21 @@ public class EnemyController : MonoBehaviour
             transform.localScale = new Vector2(1, 1);
             timeLeft -= Time.deltaTime;
         }
+
+
     }
 
     void Start()
     {
         timeLeft = time;
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        PlayerController pikario = other.gameObject.GetComponent<PlayerController>();
+        if (pikario != null)
+        {
+            pikario.ChangeHealth(-1);
+        }
     }
 }

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-04-04T09:33:15.179+03:00
-  initializedAtString: 2020-04-04T09:33:14.106+03:00
+  lastUpdatedAtString: 2020-05-11T20:36:09.501+03:00
+  initializedAtString: 2020-05-11T20:36:08.580+03:00
   localBranches:
   - name: master
     tracking: origin/master
@@ -23,17 +23,8 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
-  - name: upstream/master
-    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/BroofTerr/Pikario-Unity-Game.git
-    login: 
-    user: 
-    host: 
-    function: 0
-    token: 
-  - name: upstream
     url: https://github.com/5exyGuy/Pikario-Unity-Game.git
     login: 
     user: 
@@ -47,42 +38,30 @@ MonoBehaviour:
     - name: master
       remote:
         name: origin
-        url: https://github.com/BroofTerr/Pikario-Unity-Game.git
+        url: https://github.com/5exyGuy/Pikario-Unity-Game.git
       trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
-    - upstream
     subKeys:
     - Values:
       - HEAD
-      - master
-    - Values:
       - master
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/BroofTerr/Pikario-Unity-Game.git
+          url: https://github.com/5exyGuy/Pikario-Unity-Game.git
         trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/BroofTerr/Pikario-Unity-Game.git
-        trackingBranch: 
-    - Values:
-      - name: master
-        remote:
-          name: upstream
           url: https://github.com/5exyGuy/Pikario-Unity-Game.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
-    - upstream
     values:
     - name: origin
-      url: https://github.com/BroofTerr/Pikario-Unity-Game.git
-    - name: upstream
       url: https://github.com/5exyGuy/Pikario-Unity-Game.git

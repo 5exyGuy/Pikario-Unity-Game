@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1887642255046005310}
   - component: {fileID: 1887642255046005297}
   - component: {fileID: 1887642255046005296}
-  m_Layer: 8
+  m_Layer: 11
   m_Name: NetBeans
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -98,6 +98,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 289392f3f2a97c843a81ece87091568f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  attackClip: {fileID: 0}
+  deathClip: {fileID: 0}
+  speed: 2
+  movingRight: 1
+  time: 2
 --- !u!50 &1887642255046005311
 Rigidbody2D:
   serializedVersion: 4
@@ -132,7 +137,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0022489429, y: 0.45138335}
+  m_Offset: {x: -0.0022489429, y: 0.36971492}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -143,7 +148,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5533191, y: 0.55359983}
+  m_Size: {x: 0.5533191, y: 0.39026296}
   m_EdgeRadius: 0
 --- !u!82 &1887642255046005297
 AudioSource:

@@ -12,6 +12,7 @@ public class DeathZone : MonoBehaviour
         if (pikario != null)
         {
             pikario.PlaySound(diedClip);
+            pikario.ChangeHealth(-1);
             pikario.ResetPlayer(new Vector2(0, 0)); //Can add respawn places depending on the level
         }
     }
